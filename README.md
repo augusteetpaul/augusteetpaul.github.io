@@ -1,5 +1,5 @@
 # les canards
 <body>
   <header>
-     <img src=
+     <img src="canard.jpg">
 
