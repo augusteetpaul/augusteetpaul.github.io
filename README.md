@@ -22,5 +22,5 @@
 	  <p>Se tutoriel vous aprendra à dessiner un canard en trois étapes simples .</p>
   	  <p>Pour commencer il faut tracer une forme ressemblant à un point d'interrogation pour faire la tête du canard, à gauche de ce trait il faudra dessiner un bec, il faudra ensuite tracer une courbe en dessous pour faire son cou et dessiner un trait pour faire son dos , a la fin de ce trait il faudra dessiner des ovales pour faire sa queue. Et normalement votre dessin devrait être complet , libre à vou de rajouter des détails . </p>
 	  <p> Voici une ilustration des étapes à suivre . </p>
-	  <img src="
+	  <img src="tuto.webp">
   
