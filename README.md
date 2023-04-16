@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
-
   <head>
-    Canards
+    <strong>Canards</strong>
   </head>
   <body>
     <header>
