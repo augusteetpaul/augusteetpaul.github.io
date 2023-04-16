@@ -13,4 +13,10 @@
       <li><a href="présentation">Présentation</a></li>
     </ul>
   </nav>
+  <img src=
+  
+  <section>
+  	<h1>présentation</h1>
+	<p>Les canards sont des oiseaux ansériformes , au cou court , au large bec jaune aplati , aux très courtes pattes palmées et aux longues ailes pointues .</p>
+	<img src=
   
