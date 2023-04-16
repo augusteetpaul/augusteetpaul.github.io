@@ -16,6 +16,6 @@
     <h3>Habitats</h3>
     <p>les canards vivent dans une majeure partie des pays du monde . Ils sont présent dans des environnements humides comme des lacs ou des rivières . Car ils ont besoin d'eau pour se nourir et se reproduire , toutefois ils peuvent se nourir sur la terre ferme .</p>
     <p> voici une carte qui représente les régions dans lesquels sont présent des canards</p>
-    <img src="
+    <img src="carte can.png">
   	  
   
