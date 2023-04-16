@@ -13,7 +13,7 @@
       <li><a href="présentation">Présentation</a></li>
     </ul>
   </nav>
-  <img src=
+  <img src=image de canard.jpg>
   
   <section>
   	<h1>présentation</h1>
