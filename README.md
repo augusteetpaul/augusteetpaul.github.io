@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
   <head>
     <strong>Canards</strong>
